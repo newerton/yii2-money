@@ -6,7 +6,7 @@
  * @version 1.2.0
  */
 
-namespace kartik\money;    
+namespace newerton\money;
 
 /**
  * Asset bundle for the [[MaskMoney]] widget. Includes client assets from 

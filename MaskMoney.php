@@ -6,7 +6,7 @@
  * @version 1.2.0
  */
 
-namespace kartik\money;
+namespace newerton\money;
 
 use Yii;
 use yii\helpers\Html;
