@@ -1,8 +1,8 @@
 {
-    "name": "kartik-v/yii2-money",
+    "name": "newerton/yii2-money",
     "description": "An advanced money mask input for Yii 2.0 based on jquery maskmoney plugin styled for Bootstrap 3.",
     "keywords": ["yii2", "extension", "widget", "money", "currency", "format", "mask", "jquery", "bootstrap", "bootstrap 3"],
-    "homepage": "https://github.com/kartik-v/yii2-money",
+    "homepage": "https://github.com/newerton/yii2-money",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "kartik\\money\\": "src"
+            "newerton\\money\\": "src"
         }
     },
     "extra": {

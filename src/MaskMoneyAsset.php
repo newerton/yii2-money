@@ -6,7 +6,7 @@
  * @version 1.2.3
  */
 
-namespace kartik\money;
+namespace newerton\money;
 
 use kartik\base\AssetBundle;
 

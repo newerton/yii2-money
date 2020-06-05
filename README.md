@@ -45,13 +45,13 @@ Read this [web tip /wiki](http://webtips.krajee.com/setting-composer-minimum-sta
 Either run
 
 ```
-$ php composer.phar require kartik-v/yii2-money "dev-master"
+$ php composer.phar require newerton/yii2-money "dev-master"
 ```
 
 or add
 
 ```
-"kartik-v/yii2-money": "dev-master"
+"newerton/yii2-money": "dev-master"
 ```
 
 to the ```require``` section of your `composer.json` file.
@@ -99,7 +99,7 @@ You can configure the widget as shown below. Any plugin option not passed, will 
 Note that properties directly set in `pluginOptions` at the widget level as shown below, will override other global settings.
 
 ```php
-use kartik\money\MaskMoney;
+use newerton\money\MaskMoney;
 echo MaskMoney::widget([
     'name' => 'currency',
     'value' => 122423.18,

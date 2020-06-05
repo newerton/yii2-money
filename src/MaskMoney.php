@@ -6,7 +6,7 @@
  * @version   1.2.3
  */
 
-namespace kartik\money;
+namespace newerton\money;
 
 use kartik\base\InputWidget;
 use Yii;
@@ -19,7 +19,7 @@ use yii\helpers\Html;
  * Usage example:
  *
  * ~~~
- * use kartik\money\MaskMoney;
+ * use newerton\money\MaskMoney;
  * echo MaskMoney::widget([
  *    'name' => 'currency',
  *    'value' => 122423.18,
